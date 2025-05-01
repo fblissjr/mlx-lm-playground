@@ -1,4 +1,8 @@
-## MLX LM 
+## MLX LM Playground
+
+- *fork* of `mlx-lm` that incorporates quality of life features and/or extensions of the core `mlx-lm` repo that are useful to me, and maybe useful to others
+
+---
 
 MLX LM is a Python package for generating text and fine-tuning large language
 models on Apple silicon with MLX.
